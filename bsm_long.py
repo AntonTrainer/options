@@ -1,5 +1,4 @@
-#from python for finance book - can't get the needed data with python 3 , would need to work on it 
-#chapter 3 beg pg. 49
+
 from math import log, sqrt, exp
 from scipy import stats
 
